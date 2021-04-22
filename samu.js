@@ -102,7 +102,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n'
 + 'FN:-·👑Samu330🏆·-\n'
 + 'ORG:🐬NyanBot;\n'
-+ 'TEL;type=CELL;type=VOICE;waid=5219984907794:+521 9984 907794\n' 
++ 'TEL;type=CELL;type=VOICE;waid=52107794: 9984 907794\n' 
 + 'END:VCARD' 
 
 
@@ -630,7 +630,7 @@ case '?':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
 const Menu = {
-text: `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙😈.li Oℱịcιɑl.li
+text: `➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🌹.li Oℱịcιɑl.li
 🔐Hola *${pushname}* 
 
 ࣿ${samu}❑ Prefijo:${samu}「 ${prefix} 」
@@ -673,7 +673,7 @@ case 'menumedia':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
 const Menum = {
-text: `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}* 
+text: `➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🌹.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}* 
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🔋 nivel de bateria :${samu}
@@ -707,7 +707,7 @@ case 'menust':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
 const Menus = {
-text: `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}*
+text: `➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🌹.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}*
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🔋 nivel de bateria :${samu}
@@ -737,7 +737,7 @@ case 'menugrupos':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
 const Menug = {
-text: `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}*
+text: `➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🌹.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}*
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🔋 nivel de bateria :${samu}
@@ -778,7 +778,7 @@ case 'menudescargas':
   if (!isRegister) return reply(mess.only.daftarB)
   uptime = process.uptime()
 const Menud = {
-text: `➫ြ𝚜ᷤ𝚊ͣ𝚖ͫ𝚞𝉄𖾔𖾔𖽙.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}*
+text: `➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🌹.li Oℱịcιɑl.li                                                                            🔐Hola *${pushname}*
 
 ⍣ *BOT INFO* ⍣
 ${samu}◦ 🔋 nivel de bateria :${samu}
